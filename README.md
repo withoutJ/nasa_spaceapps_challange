@@ -1,2 +1,3 @@
-# nasa_spaceapps_challange
-Hackathon organized by NASA. Leveraging ML to track marine debris.
+# Leveraging AI/ML for plastic marine debris
+
+Scraping the tweets and determining the location of the waste (using Twitter and Google maps API in python)
